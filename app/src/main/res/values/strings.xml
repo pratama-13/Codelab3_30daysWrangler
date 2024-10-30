@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">30Wrangler</string>
+
+    <string name="day1">Day 1</string>
+    <string name="location1">California</string>
+    <string name="description1">Hari pertama di California, atap Jeep terbuka, angin gurun menerpa wajah, dan matahari terbenam menyajikan langit ungu keemasan. Petualangan baru dimulai—aku siap menjelajah!</string>
+
+    <string name="day2">Day 2</string>
+    <string name="location2">Nebraska</string>
+    <string name="description2">Hari kedua di Nebraska, petualangan semakin seru! Mobil Jeep hitam mengkilat ini adalah teman setia kami dalam menjelajahi alam liar. Air terjun yang segar dan menenangkan, membuat pengalaman ini tak terlupakan.</string>
+
+    <string name="day3">Day 3</string>
+    <string name="location3">Canada</string>
+    <string name="description3">Hari ketiga di Kanada, Mobil Jeep Wrangler kami meluncur di jalanan berbatu di tengah hutan yang lebat. Udara segar dan pemandangan yang menakjubkan membuat kami merasa benar-benar hidup. Setelah itu, kami melanjutkan perjalanan dan tiba di sebuah desa kecil. Kami makan di sebuah restoran kecil dan mencicipi makanan khas Kanada.</string>
+
+    <string name="day4">Day 4</string>
+    <string name="location4">Ohio</string>
+    <string name="description4">Hari ini kami menjelajahi hutan nasional di Ohio. Kami melihat banyak hewan liar, seperti rusa dan beruang. Kami juga mendaki ke puncak gunung dan menikmati pemandangan yang menakjubkan.</string>
+
+    <string name="day5">Day 5</string>
+    <string name="location5">Nevada</string>
+    <string name="description5">Jadi, ini dia bukti kalau aku bisa jadi RATU GUNUNG sebentar.  Siapa takut sama medan yang sedikit menantang? Nevada, kamu berhasil menaklukkan hatiku.</string>
+
+</resources>
